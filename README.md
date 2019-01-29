@@ -1,2 +1,3 @@
 # countdown
-a simple Javascript countdown timer. basically a hello world from me to github :-)
+simple countdown timer 
+basically hello world ;)
